@@ -43,4 +43,6 @@ Artefato bruto gerado:
 Se algum agente falar de valor no Teatro Suzano/Sienge:
 1. usar `/items` como fonte factual por item;
 2. citar `quantity` + `unitPrice`;
-3. não inventar total consolidado enquanto `totalValue` seguir `null` e `/cost-estimate-resources` seguir zerado.
+3. não inventar total consolidado enquanto `totalValue` seguir `null` e `/cost-estimate-resources` seguir zerado;
+4. se o valor confirmado não for encontrado na fonte canônica, **voltar com erro**;
+5. é proibido **supor, deduzir ou inventar** valor.
