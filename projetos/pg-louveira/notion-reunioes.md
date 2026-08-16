@@ -1,6 +1,6 @@
 # P&G Louveira — Notion / Reuniões e Controle
 
-_Atualizado automaticamente em 2026-08-15 03:45 BRT_
+_Atualizado automaticamente em 2026-08-16 03:45 BRT_
 
 ## Regra operacional
 
